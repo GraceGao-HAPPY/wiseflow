@@ -24,3 +24,5 @@ CMD tail -f /dev/null
 
 git clone https://github.com/TeamWiseFlow/wiseflow.git
 cd wiseflow
+
+docker compose up
