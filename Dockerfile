@@ -21,3 +21,6 @@ EXPOSE 8090
 EXPOSE 8077
 
 CMD tail -f /dev/null
+
+git clone https://github.com/TeamWiseFlow/wiseflow.git
+cd wiseflow
